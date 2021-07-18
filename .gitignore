@@ -1,0 +1,10 @@
+
+readme.txt
+*.mp4
+test.py
+**/__pycache__/
+**/__pycache__/
+notes/
+results/
+data/
+unused/
